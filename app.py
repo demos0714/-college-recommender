@@ -795,7 +795,7 @@ st.markdown("""
 
 <div style='text-align: center; font-size: 0.9em; color: gray;'>
     <strong>2025 GSAT Department Recommendation System</strong><br>
-    Developed by Yun-Rou Lee, Chih-Yu Yeh, Shu-Hsien Hsu, Ke-Hsuan Fan, Yung-Sheng Huang, and Hsiang-Yi Kao.<br>
+    Developed by 李韵柔, 葉芷妤, 許紓嫻, 范可軒, 黃詠笙, and 高湘宜.<br>
     © 2025 CollegeMatch Initiative. All rights reserved.
 </div>
 """, unsafe_allow_html=True)
