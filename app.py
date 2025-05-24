@@ -788,4 +788,14 @@ def main():
         st.info("請輸入成績、選擇學群並設置志願分配，然後點擊「模擬志願分發」按鈕。")
 
 if __name__ == "__main__":
-    main()
+    main
+
+st.markdown("""
+<hr style='margin-top:50px; margin-bottom:10px;'>
+
+<div style='text-align: center; font-size: 0.9em; color: gray;'>
+    <strong>2025 GSAT Department Recommendation System</strong><br>
+    Developed by Yun-Rou Lee, Chih-Yu Yeh, Shu-Hsien Hsu, Ke-Hsuan Fan, Yung-Sheng Huang, and Hsiang-Yi Kao.<br>
+    © 2025 CollegeMatch Initiative. All rights reserved.
+</div>
+""", unsafe_allow_html=True)
