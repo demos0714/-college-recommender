@@ -788,7 +788,7 @@ def main():
         st.info("請輸入成績、選擇學群並設置志願分配，然後點擊「模擬志願分發」按鈕。")
 
 if __name__ == "__main__":
-    main
+    main()
 
 st.markdown("""
 <hr style='margin-top:50px; margin-bottom:10px;'>
