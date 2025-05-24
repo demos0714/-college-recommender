@@ -794,7 +794,7 @@ st.markdown("""
 <hr style='margin-top:50px; margin-bottom:10px;'>
 
 <div style='text-align: center; font-size: 0.9em; color: gray;'>
-    <strong>2025 GSAT Department Recommendation System</strong><br>
+    <strong>2025 GSAT College & Department Recommendation System</strong><br>
     Developed by 李韵柔, 葉芷妤, 許紓嫻, 范可軒, 黃詠笙, and 高湘宜.<br>
     © 2025 CollegeMatch Initiative. All rights reserved.
 </div>
