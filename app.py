@@ -795,6 +795,6 @@ st.markdown("""
 
 <div style='text-align: center; font-size: 0.9em; color: gray;'>
     <strong>2025 GSAT College & Department Recommendation System</strong><br>
-    Developed by 李韵柔, 葉芷妤, 許紓嫻, 范可軒, 黃詠笙, 高湘宜.<br>
+    Developed by 李韵柔, 葉芷妤, 許紓嫺, 范可軒, 黃詠笙, 高湘宜.<br>
 </div>
 """, unsafe_allow_html=True)
